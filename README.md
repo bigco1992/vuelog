@@ -1,24 +1,22 @@
-# vuelog
+## 사용한 기술
 
-## Project setup
-```
-npm install
-```
+### Front-End
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Vue 3.0.0 + Vuex + Vue-router
+- Webpack
+- Axios
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### **Back-End**
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Node.js 14.17.3
+    - Bcrypt
+- MySQL
+- Docker
+    - Dockerfile
+    - Docker-compose
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Deploy
+
+- AWS-EC2
+- Nginx
+- Docker
