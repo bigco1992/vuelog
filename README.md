@@ -10,6 +10,7 @@
 
 - Node.js 14.17.3
     - Bcrypt
+    - MySQL2
 - MySQL
 - Docker
     - Dockerfile
